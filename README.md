@@ -2,7 +2,7 @@
 
 Please see [full report](https://github.com/kavarthapudilip/Traffic-Lights-Control/blob/master/687_Project.pdf) for further details about the project.
 
-## Requirements to runt the code:-
+## Requirements to run the code:-
  
 * To be able to run the code, you should have SUMO traffic simulator installed in your device.
 
